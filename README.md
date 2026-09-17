@@ -8,13 +8,13 @@ CSE student building full-stack systems, compilers, and algorithm-driven project
 Full-stack real-time chat application with JWT authentication, live messaging, and persistent chat history.
 `React` `Node.js` `Express` `Socket.io` `PostgreSQL`
 
-**[Mini C Compiler](https://github.com/keshavm21/Mini-C-Compiler)**
-Lexer, parser, and intermediate code generator for a subset of C, producing three-address code as an intermediate representation.
-`C` `Lex` `Yacc`
-
 **[Chess Engine AI](https://github.com/keshavm21/Chess-Engine-AI)**
 Chess engine with a Minimax and alpha-beta pruning AI opponent, custom move generation, and positional evaluation.
 `Python` `Pygame`
+
+**[Mini C Compiler](https://github.com/keshavm21/Mini-C-Compiler)**
+Lexer, parser, and intermediate code generator for a subset of C, producing three-address code as an intermediate representation.
+`C` `Lex` `Yacc`
 
 **[BAKSHEESH Integral Cryptanalysis](https://github.com/keshavm21/baksheesh-integral-cryptanalysis)**
 Implementation and verification of a 3-round integral distinguisher attack on the BAKSHEESH lightweight block cipher, validated against published test vectors.

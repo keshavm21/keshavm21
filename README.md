@@ -1,16 +1,27 @@
-## Hi there 👋
+# Keshav Mishra
 
-<!--
-**keshavm21/keshavm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student building full-stack systems, compilers, and algorithm-driven projects — with a focus on real-time backend architecture and applied cryptography.
 
-Here are some ideas to get you started:
+## Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Relay](https://github.com/keshavm21/chat-app)**
+Full-stack real-time chat application with JWT authentication, live messaging, and persistent chat history.
+`React` `Node.js` `Express` `Socket.io` `PostgreSQL`
+
+**[Mini C Compiler](https://github.com/keshavm21/Mini-C-Compiler)**
+Lexer, parser, and intermediate code generator for a subset of C, producing three-address code as an intermediate representation.
+`C` `Lex` `Yacc`
+
+**[Chess Engine AI](https://github.com/keshavm21/Chess-Engine-AI)**
+Chess engine with a Minimax and alpha-beta pruning AI opponent, custom move generation, and positional evaluation.
+`Python` `Pygame`
+
+**[BAKSHEESH Integral Cryptanalysis](https://github.com/keshavm21/baksheesh-integral-cryptanalysis)**
+Implementation and verification of a 3-round integral distinguisher attack on the BAKSHEESH lightweight block cipher, validated against published test vectors.
+`C++`
+
+## Links
+
+LinkedIn: [linkedin.com/in/keshav-mishra-9a54b4317](https://www.linkedin.com/in/keshav-mishra-9a54b4317)
+LeetCode: [leetcode.com/u/crispy_valkyrie](https://leetcode.com/u/crispy_valkyrie/)
+Codeforces: [codeforces.com/profile/XenonCipher](https://codeforces.com/profile/XenonCipher)

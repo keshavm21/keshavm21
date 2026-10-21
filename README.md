@@ -4,6 +4,10 @@ CSE student building full-stack systems, compilers, and algorithm-driven project
 
 ## Selected Projects
 
+**[PatchLoop](https://github.com/keshavm21/patchloop)**
+Self-repairing coding agent that patches buggy Python from test feedback inside a two-container Docker sandbox, with a mutation-based benchmark and a chaos suite for the sandbox.
+`Python` `Docker` `pytest` `GitHub Actions`
+
 **[Relay](https://github.com/keshavm21/chat-app)**
 Full-stack real-time chat application with JWT authentication, live messaging, and persistent chat history.
 `React` `Node.js` `Express` `Socket.io` `PostgreSQL`

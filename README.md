@@ -20,6 +20,10 @@ Chess engine with a Minimax and alpha-beta pruning AI opponent, custom move gene
 Lexer, parser, and intermediate code generator for a subset of C, producing three-address code as an intermediate representation.
 `C` `Lex` `Yacc`
 
+**[Kite](https://github.com/keshavm21/kite)**
+Optimizing compiler in C++17 for a small GPU kernel language, targeting NVIDIA PTX. SSA-based optimizer (GVN, LICM, loop unrolling), validated against an interpreter oracle and a fuzzer, and run on a Tesla T4.
+`C++` `PTX` `CUDA` `SSA`
+
 **[BAKSHEESH Integral Cryptanalysis](https://github.com/keshavm21/baksheesh-integral-cryptanalysis)**
 Implementation and verification of a 3-round integral distinguisher attack on the BAKSHEESH lightweight block cipher, validated against published test vectors.
 `C++`

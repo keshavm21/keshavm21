@@ -24,9 +24,9 @@ Lexer, parser, and intermediate code generator for a subset of C, producing thre
 Optimizing compiler in C++17 for a small GPU kernel language, targeting NVIDIA PTX. SSA-based optimizer (GVN, LICM, loop unrolling), validated against an interpreter oracle and a fuzzer, and run on a Tesla T4.
 `C++` `PTX` `CUDA` `SSA`
 
-**[BAKSHEESH Integral Cryptanalysis](https://github.com/keshavm21/baksheesh-integral-cryptanalysis)**
-Implementation and verification of a 3-round integral distinguisher attack on the BAKSHEESH lightweight block cipher, validated against published test vectors.
-`C++`
+**[PR Investigator](https://github.com/keshavm21/pr-investigator)**
+Evidence-driven AI reviewer for GitHub pull requests. It investigates hypotheses with read-only repository tools and reports a finding only if every cited line was returned by a tool, checked against the analyzed commit. A human approves what gets posted, and each component is evaluated by ablation on a held-out split with bootstrap intervals.
+`Python` `SQLite` `tree-sitter` `GitHub App`
 
 ## Links
 

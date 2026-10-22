@@ -9,7 +9,7 @@ Self-repairing coding agent that patches buggy Python from test feedback inside 
 `Python` `Docker` `pytest` `GitHub Actions`
 
 **[Relay](https://github.com/keshavm21/chat-app)**
-Full-stack real-time chat application with JWT authentication, live messaging, and persistent chat history.
+Real-time chat app with public and private channels, DMs, and unread counts. It uses cookie-based sessions with CSRF checks and rate limiting, and numbers messages in order per conversation in PostgreSQL. Integration-tested against a real database.
 `React` `Node.js` `Express` `Socket.io` `PostgreSQL`
 
 **[Chess Engine AI](https://github.com/keshavm21/Chess-Engine-AI)**

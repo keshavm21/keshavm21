@@ -13,8 +13,9 @@ Full-stack real-time chat application with JWT authentication, live messaging, a
 `React` `Node.js` `Express` `Socket.io` `PostgreSQL`
 
 **[Chess Engine AI](https://github.com/keshavm21/Chess-Engine-AI)**
-Chess engine with a Minimax and alpha-beta pruning AI opponent, custom move generation, and positional evaluation.
-`Python` `Pygame`
+Chess engine in Python with perft-verified move generation and an iterative-deepening negamax search (alpha-beta, quiescence, transposition table). It plays through a Pygame GUI or any UCI chess GUI, and search changes are validated by a tactics suite and self-play matches.
+`Python` `Pygame` `UCI` `pytest`
+
 
 **[Mini C Compiler](https://github.com/keshavm21/Mini-C-Compiler)**
 Lexer, parser, and intermediate code generator for a subset of C, producing three-address code as an intermediate representation.

@@ -1,6 +1,6 @@
 # Keshav Mishra
 
-CSE student building full-stack systems, compilers, and algorithm-driven projects — with a focus on real-time backend architecture and applied cryptography.
+CSE student building full-stack systems, compilers, and algorithm-driven projects — with a focus on real-time backend architecture.
 
 ## Selected Projects
 

@@ -32,7 +32,3 @@ Evidence-driven AI reviewer for GitHub pull requests. It investigates hypotheses
 ## Links
 
 LinkedIn: [linkedin.com/in/keshav-mishra-9a54b4317](https://www.linkedin.com/in/keshav-mishra-9a54b4317)
-
-LeetCode: [leetcode.com/u/crispy_valkyrie](https://leetcode.com/u/crispy_valkyrie/)
-
-Codeforces: [codeforces.com/profile/XenonCipher](https://codeforces.com/profile/XenonCipher)

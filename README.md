@@ -30,4 +30,4 @@ Lexer, parser, and intermediate code generator for a subset of C, producing thre
 
 ## Links
 
-LinkedIn: [linkedin.com/in/keshav-mishra-9a54b4317](https://www.linkedin.com/in/keshav-mishra-9a54b4317)
+LinkedIn: [linkedin.com/in/keshav-mishra-9a54b4317](https://www.linkedin.com/in/keshavm21)
